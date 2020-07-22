@@ -7,6 +7,12 @@ const Experience = () => {
       <div className="exp1">
         <h4>Whild Code School</h4>
         <h5>2020</h5>
+        <p>lorem</p>
+      </div>
+      <div className="exp2">
+        <h4>Whild Code School</h4>
+        <h5>2020</h5>
+        <p>lorem</p>
       </div>
     </div>
   );
