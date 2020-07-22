@@ -1,12 +1,12 @@
 import React from "react";
 
-const Hobbies = () => {
+const OtherSkills = () => {
   return (
     <div>
-      Hobbies
+      Autres compétences
       <h2></h2>
     </div>
   );
 };
 
-export default Hobbies;
+export default OtherSkills;
