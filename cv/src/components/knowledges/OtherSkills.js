@@ -8,14 +8,14 @@ const OtherSkills = () => {
         <ul>
           <li>
             <i className="fas fa-check-square"></i>
-            Anglais courant
+            Anglais Espagnol Allemand
           </li>
           <li>
             <i className="fas fa-check-square"></i>
             Github
           </li>
           <li>
-            <i className="fas fa-check-square"></i> SEO
+            <i className="fas fa-check-square"></i> VS Code
           </li>
           <li>
             <i className="fas fa-check-square"></i>
@@ -27,13 +27,13 @@ const OtherSkills = () => {
             <i className="fas fa-check-square"></i>Figma
           </li>
           <li>
-            <i className="fas fa-check-square"></i>Photoshop
+            <i className="fas fa-check-square"></i>Trello
           </li>
           <li>
-            <i className="fas fa-check-square"></i>UI Design
+            <i className="fas fa-check-square"></i>Photo Shop
           </li>
           <li>
-            <i className="fas fa-check-square"></i>Montage Vidéo
+            <i className="fas fa-check-square"></i>Travail en Remote
           </li>
         </ul>
       </div>

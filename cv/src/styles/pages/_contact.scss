@@ -1,5 +1,5 @@
 .contactContent {
-  background: $color-3;
+  background: $color-1;
   border-radius: $borderRadius;
   width: 100%;
   overflow: hidden;
@@ -78,7 +78,7 @@
         font-size: 1.4rem;
         position: absolute;
         transform: translateY(2px);
-        color: $color-2;
+        color: $color-1;
       }
       span {
         font-size: 1.4rem;
@@ -115,7 +115,7 @@
         padding: 0.7rem 0;
         box-shadow: $shadow;
         transform: scaleY(0);
-        transform-origin: top;
+        transform-origin: center;
         transition: 0.2s ease;
         transition: scale 0.1s;
 

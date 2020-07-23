@@ -10,16 +10,16 @@ const Hobbies = () => {
           <span>Sport en Salle </span>
         </li>
         <li className="hobby">
-          <li className="fas fa-running"></li>
+          <li className="fas fa-swimmer"></li>
           <span>Surf</span>
         </li>
         <li className="hobby">
-          <li className="fas fa-running"></li>
+          <li className="fab fa-bitcoin"></li>
           <span>Cryptomonnaies </span>
         </li>
         <li className="hobby">
-          <li className="fas fa-running"></li>
-          <span>Trading </span>
+          <li className="fas fa-chart-line"></li>
+          <span>Finances</span>
         </li>
       </ul>
     </div>
